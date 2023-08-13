@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "feder_common",
+    "feder_builder",
+    "feder_cli",
+    "feder_server"
+]
